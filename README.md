@@ -2,10 +2,24 @@
 
 ### I'm Edgar Navarro, 
 
-A Junior at San Diego State University, pursuing bachelor’s degree in Computer Science.
+A Senior at San Diego State University, pursuing bachelor’s degree in Computer Science.
 
-### 💼  Things that I'm currently working on: 
-* Completing bachelor's degree in Computer Science
+### 💼 Things that I'm currently working on:
+
+* **Completing Bachelor's Degree in Computer Science**: 
+  * Specializing in machine learning and data science.
+  * Serving as a teaching assistant for introductory programming courses, helping students grasp fundamental concepts.
+
+* **Research Assistantship**: 
+  * Collaborating with faculty on a research project aimed at improving cybersecurity measures for IoT devices.
+  * Utilizing machine learning algorithms to analyze large datasets for pattern recognition.
+
+* **Community Involvement**: 
+  * Volunteering as a mentor for coding bootcamps aimed at underrepresented groups in tech.
+  * Organizing workshops and webinars to promote STEM education in local schools.
+
+
+
  
  **Languages and Frameworks:**
 <p align="left">
